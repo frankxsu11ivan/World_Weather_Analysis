@@ -22,6 +22,8 @@ lessons learned include:
 ## Results
  *Limitations of this dataset of this data set is the distance between cities.
  *the maps are huge and rendering is a limitation. in the gmap tool.
+![WeatherPY_Vacation_Map](https://user-images.githubusercontent.com/49629904/128053088-a3d5d788-cd3b-4dcb-8be6-d1a815f671aa.png)
+![Mo6 6 Del 3 Picture 2 Vaction Itenary Map Picture 1](https://user-images.githubusercontent.com/49629904/128053125-11562a2e-0417-487d-af2d-2b28a2ff9339.png)
 
  *other possible tables and/or graphs that we could create are tied to food network dives and diners ... next to ATMS.
  *this will take more practice in gMaps.
